@@ -1,0 +1,13 @@
+/config.py
+/RsiBB.html
+/SmaCross.html
+.venv/
+__pycache__/
+*.egg-info/
+cache/
+build/
+.idea/
+
+.DS_Store
+*.pyc
+.coverage
