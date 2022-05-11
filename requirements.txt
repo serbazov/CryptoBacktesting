@@ -1,0 +1,7 @@
+python-binance
+pandas
+ta
+websocket_client
+backtesting
+newtulipy
+numpy
